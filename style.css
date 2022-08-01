@@ -1,0 +1,20 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.3rem;
+    background: thistle;
+}
+
+.center {
+    text-align: center;
+}
+
+ol,
+ul,
+li {
+    list-style-type: square;
+}
