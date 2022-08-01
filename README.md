@@ -1,4 +1,4 @@
-# specializedClass
+# Ota-Total_Training
 
 The **Syllabus** designed for the task ahead at *OTA TOTAL ACADEMY*
 
